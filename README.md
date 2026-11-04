@@ -14,3 +14,9 @@
 [nabariya-delay.github.io/character_home](https://nabariya-delay.github.io/character_home/)
 
 [nabariya-delay.github.io/Profile-Site](https://nabariya-delay.github.io/Profile-Site/)
+
+[nabariya-delay.github.io/door/](https://nabariya-delay.github.io/door/)
+
+[nabariya-delay.github.io/test_input_night/](https://nabariya-delay.github.io/test_input_night/)
+
+[nabariya-delay.github.io/QR/](https://nabariya-delay.github.io/QR/)
