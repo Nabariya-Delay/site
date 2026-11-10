@@ -20,3 +20,7 @@
 [nabariya-delay.github.io/test_input_night/](https://nabariya-delay.github.io/test_input_night/)
 
 [nabariya-delay.github.io/QR/](https://nabariya-delay.github.io/QR/)
+
+[https://nabariya-delay.github.io/Carouse/](https://nabariya-delay.github.io/Carouse/)
+
+[https://nabariya-delay.github.io/clock/](https://nabariya-delay.github.io/clock/)
